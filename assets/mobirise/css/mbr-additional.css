@@ -1762,17 +1762,18 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rcXGuJfOgB {
-  background: #ffffff;
+.cid-rcXLquVdq0 {
+  padding-top: 135px;
+  padding-bottom: 135px;
 }
-.cid-rcXGuJfOgB .video-block {
-  margin: auto;
-  width: 100% !important;
+.cid-rcXLquVdq0 H1 {
+  color: #000000;
 }
-@media (max-width: 768px) {
-  .cid-rcXGuJfOgB .video-block {
-    width: 100% !important;
-  }
+.cid-rcXLquVdq0 H3 {
+  color: #000000;
+}
+.cid-rcXLquVdq0 P {
+  color: #000000;
 }
 .cid-rcXjnVN7oF {
   padding-top: 90px;
